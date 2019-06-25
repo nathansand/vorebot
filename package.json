@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "simple discord bot for my server",
   "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
   "author": "natowo",
   "dependencies": {
     "discord.io": "^2.5.3",
